@@ -143,6 +143,11 @@ body {
   background-color: var(--Medium-Grey-clr);
 }
 
+.btn.active{
+	background-color: hsl(217, 12%, 63%);
+}
+		
+
 @keyframes scale {
   from {
     transform: scale(0);
